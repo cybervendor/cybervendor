@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybervendor
-- 👀 I’m interested in Backend developers, Cybersecurity offensive and defensive practises.
+- 👀 I’m interested in Backend development, Cybersecurity offensive and defensive practises.
 - 🌱 I’m currently learning Python Django Framework
 - 💞️ I’m looking to collaborate on application security.
 - 📫 How to reach me .. find me on discord @vinnie_20399
